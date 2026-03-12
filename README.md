@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou a Eliza (alize-pixel) ✨
 
-<!--
-**alize-pixel/alize-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Estudante de Ciência da Computação | C++ | UI Design
 
-Here are some ideas to get you started:
+Bem-vindo ao meu laboratório! Aqui é onde eu transformo lógica em estética. Acredito que o código não precisa ser apenas funcional, ele também pode ser visualmente interessante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ No que estou trabalhando?
+- **[Projeto em Destaque]**: Convertendo imagens reais em arte colorida via terminal usando C++.
+- **UI/UX**: Explorando interfaces que conectam pessoas e tecnologia de forma sustentável.
+
+### 🎨 Minhas Ferramentas
+- **Linguagens:** C++, C, JavaScript.
+- **Design:** Krita, Figma, Photoshop.
+- **Interesses:** Sustentabilidade, Hardware Criativo e Estética Retro-Tech.
+
+---
+
+### 🐸 Onde me encontrar?
+- [LinkedIn](https://www.linkedin.com/in/alize-pixel)
+- [Portfólio de Design (em breve)]
+
+*"A tecnologia é a nossa fada moderna."* 🧚‍♀️
